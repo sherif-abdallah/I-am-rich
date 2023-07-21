@@ -1,16 +1,30 @@
-# iam_rich
 
-A new Flutter project.
+<h1 align="center">I Am Rich</h1>
 
-## Getting Started
+<p align="center">
+  <img width="300" src="images/snapshot2.png"/>
+  <img width="300" src="images/snapshot1.png"/>
+</p>
 
-This project is a starting point for a Flutter application.
+## How to use
 
-A few resources to get you started if this is your first Flutter project:
+To clone and run this application, you'll need [Git](https://git-scm.com/downloads) and [Flutter](https://flutter.dev/docs/get-started/install) installed on your computer. From your command line:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+# Clone this repository
+$ git clone https://github.com/sherif-abdallah/i-am-rich.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Go into the repository
+$ cd i-am-rich/
+
+# Install dependencies
+$ flutter packages get
+
+# Run the app
+$ flutter run
+```
+
+
+## Contact
+  - <a target="_blank" href="https://www.facebook.com/sheerif.abdullah">Facebook</a>
+  - <a target="_blank" href="mailto:sherifabdalla2005@gmail.com">E-mail</a>
